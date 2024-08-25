@@ -14,4 +14,14 @@ c14a12e6-cdac-4188-ab24-496c8dc2f977
 {4,"_$InfoBase$_.PredefinedDataUpdate",6},
 {5,d9b4b69e-8fbf-41aa-ad03-cbcdbae4be02,"",1},
 {4,"_$InfoBase$_.DBConfigUpdate",7},
-{4,"_$Access$_.Access",8}
+{4,"_$Access$_.Access",8},
+{4,"_$Transaction$_.Begin",9},
+{4,"_$Data$_.New",10},
+{5,d9b4b69e-8fbf-41aa-ad03-cbcdbae4be02,"Справочник.Кабинеты",1},
+{4,"_$Transaction$_.Commit",11},
+{3,"BackgroundJob",3},
+{4,"_$Data$_.Update",12},
+{4,"_$Transaction$_.Rollback",13},
+{5,2aa440d6-be96-4a9b-aaa4-7c3c143a8614,"",2},
+{5,2aa440d6-be96-4a9b-aaa4-7c3c143a8614,"Справочник.Учителя",2},
+{5,a6f5ea83-da44-4046-9f42-7efc1abbb3b8,"",3}
