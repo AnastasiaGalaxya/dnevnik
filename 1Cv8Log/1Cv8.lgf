@@ -33,4 +33,5 @@ c14a12e6-cdac-4188-ab24-496c8dc2f977
 {4,"_$InfoBase$_.DBConfigUpdateError",17},
 {4,"_$Data$_.Delete",18},
 {4,"_$InfoBase$_.DumpStart",19},
-{4,"_$InfoBase$_.DumpFinish",20}
+{4,"_$InfoBase$_.DumpFinish",20},
+{5,e333f44f-d9cf-4cc5-bd1b-5abe12d45909,"РегистрСведений.ДомашниеЗадания",5}
